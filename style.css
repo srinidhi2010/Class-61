@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#app{
+   background-color: rgb(255, 223, 227);
+   font-size: 60px;
+   font-family:'Rubik Moonrocks', cursive ;
+}
+#game{
+    background-color: rgb(255, 223, 227);
+    font-size: 60px;
+    font-family:'Rubik Moonrocks', cursive ;
+ }
+ #chatbot{
+    background-color: rgb(255, 223, 227);
+    font-size: 60px;
+    font-family:'Rubik Moonrocks', cursive ;
+ }
